@@ -78,6 +78,12 @@ node main.mjs
 - 处理 video 是用 playwright 来播放视频。
 - 处理 pdf 是直接发包。
 
+# Windows 禁止电脑休眠
+
+方便想实现一觉醒来发现课全刷完的 ucaser : 
+
+https://www.bilibili.com/video/BV1xS4y1K7nQ
+
 # 运行的截图：
 
 ![image-20241116201438834](assets/image-20241116201438834.png)
